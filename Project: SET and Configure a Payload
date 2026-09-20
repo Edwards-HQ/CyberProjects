@@ -1,4 +1,4 @@
-# Project Name: SET and Configure a Payload
+# Project: SET and Configure a Payload
 ## 📌 Executive Summary
  Configure and use Windows Remote Desktop between two Windows systems, verify the installation and configuration of SSH on a Linux system, and establish SSH sessions between a Windows and Linux system using GUI and CLI options.
 ## 🏗️ Architecture & Blueprint
