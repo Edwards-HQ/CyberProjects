@@ -2,7 +2,7 @@
 
 ## Prepare a second storage device to be used as the backup target and preps several files for backup and restore operations.
 
-![][image1]
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/acd2edbd-6ca4-4cbf-978d-330a4c5c678b" />
 
 Disks and partitions (and volumes) are numbered cardinally, which means the first item is numbered 0 (zero), and the second item is numbered 1 (one). Therefore, disk 0 is the main OS boot drive, while disk 1 is the additional drive that is currently unused.
 
