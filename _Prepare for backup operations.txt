@@ -1,0 +1,42 @@
+﻿Prepare for backup operations
+Prepare a second storage device to be used as the backup target and preps several files for backup and restore operations.
+
+
+  
+
+
+
+Disks and partitions (and volumes) are numbered cardinally, which means the first item is numbered 0 (zero), and the second item is numbered 1 (one). Therefore, disk 0 is the main OS boot drive, while disk 1 is the additional drive that is currently unused.
+
+
+
+
+
+
+  
+
+
+
+
+
+Most backup solutions can protect files of any type. You will not be limited to text documents. Typically, the primary limiting factor for backups is the amount of data to be protected vs. the available space on the backup media (i.e., target or save location).
+
+
+
+
+  
+
+
+
+Protect files using Windows Server Backup
+
+
+
+
+
+
+
+
+  
+
+Using Windows Server Backup, perform a one-time backup of C:\Users to drive F
